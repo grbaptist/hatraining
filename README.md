@@ -36,6 +36,8 @@ Setting up Packer in Atlas
 
 - - -
 
+
+
 1. Click on "Builds" in the navigation bar
 1. Click on "New Build Configuration"
 1. Create a configuration named "haproxy" and check the "Automatically build on version uploads" option
