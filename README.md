@@ -20,6 +20,7 @@ Setting up a Git Repository
 
         $ git push origin master
 
+
 Setting up Packer in Atlas
 ==========================
 1. Navigate to Atlas
